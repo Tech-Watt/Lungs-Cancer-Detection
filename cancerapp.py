@@ -54,5 +54,5 @@ if st.button("Predict Now"):
 st.markdown("""
 ---
 *App created by Felix Sam Nanor.*
-[GitHub Repository](https://github.com/yourusername/your-app)
+[GitHub Repository](https://github.com/Tech-Watt?tab=repositories)
 """)
